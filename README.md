@@ -2,5 +2,5 @@
 - 👀 I’m interested in learning coding also new technical skills
 - 🌱 I’m currently learning python language and this is my third year.
 - 💞️ I’m looking for internship oppurtunites.
-- 📫 I other skills are-c,c++,java,html,css,vibe coding 
- 
+- 📫 I other skills are-c,c++,java,html,css,vibe coding
+- you can contact me through my linkedin https://www.linkedin.com/in/meghana-b-l-0b37162a3/
