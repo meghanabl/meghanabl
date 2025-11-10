@@ -1,6 +1,6 @@
 - 👋 Hi, I’m meghanabl
 - 👀 I’m interested in learning coding also new technical skills
-- 🌱 I’m currently learning python language and this is my third year.
+- 🌱 I’m currently studying in third year engineering .
 - 💞️ I’m looking for internship oppurtunites.
-- 📫 I other skills are-c,c++,java,html,css,vibe coding
--     reach out to me at meghanabl259@gmail.com
+- 📫 I other skills are python,c,c++,java,html,css,vibe coding
+- 📫 reach out to me at meghanabl259@gmail.com
